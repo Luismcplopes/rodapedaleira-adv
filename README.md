@@ -4,8 +4,10 @@
 
 # Announcement of an event for the association **[Roda Pedaleira.](http://www.rodapedaleira.pt/)**
 
+[View were](rodapedaleira-adv.netlify.com)
+
+[View on the real site post](http://www.rodapedaleira.pt/9a-travessia-de-sico/)
+
 [![View on real site post](./images/Poster2.png)](http://www.rodapedaleira.pt/9a-travessia-de-sico/)
 
-![View were](rodapedaleira-adv.netlify.com)
 
-![View on the real site post](http://www.rodapedaleira.pt/9a-travessia-de-sico/)
