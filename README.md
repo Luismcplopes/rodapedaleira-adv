@@ -1,5 +1,4 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6951f8cb-7090-4819-9a75-237199bafeac/deploy-status)](https://app.netlify.com/sites/rodapedaleira-adv/deploys)
-https://img.shields.io/github/last-commit/Luismcplopes/rodapedaleira-adv.svg
 ![GitHub last commit](https://img.shields.io/github/last-commit/luismcplopes/rodapedaleira-adv.svg)
 
 
